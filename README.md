@@ -7,6 +7,8 @@
 
 ***Both Bold And Italic***
 
+~~This is a Bekar Line~~
+
 * Fruits
 
   * Apple
