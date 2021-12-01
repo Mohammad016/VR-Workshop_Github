@@ -9,6 +9,8 @@
 
 ~~This is a Bekar Line~~
 
+`Arbaaz`
+'Arbaaz'
 * Fruits
 
   * Apple
@@ -29,3 +31,7 @@
 Sno|Name(Table Header)
 ----|----
 1|Arbaaz(Table Items)
+
+👽
+😂
+👻
